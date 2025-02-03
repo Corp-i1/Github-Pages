@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # Corp-i1's Pages
 
 This site is hosted using GitHub Pages and provides comprehensive documentation for my projects (eventually).
