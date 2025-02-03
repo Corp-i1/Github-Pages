@@ -3,7 +3,7 @@ layout: default
 title: Documentation
 ---
 
-# Documentation
+# Documentation - Win-Labs
 
 Welcome to the documentation for Win-Labs my Q-Labs alternative for windows.
 

@@ -9,14 +9,14 @@ This site is hosted using GitHub Pages and provides comprehensive documentation 
 
 ## Sections
 
-- [Home](https://Corp-i1.github.io/)
-- [Documentation](https://Corp-i1.github.io/docs/)
-- [About](https://Corp-i1.github.io/about/)
-- [Contact](https://Corp-i1.github.io/contact/)
+- [Home](https://corp-i1.github.io/Github-Pages/)
+- [Documentation](https://corp-i1.github.io/Github-Pages/docs/)
+- [About](https://corp-i1.github.io/Github-Pages/about/)
+- [Contact](https://corp-i1.github.io/Github-Pages/contact/)
 
 ## Getting Started
 
-To get started with this project, follow the instructions in the [Documentation](https://Corp-i1.github.io/docs/).
+To get started with this project, follow the instructions in the [Documentation](https://corp-i1.github.io/Github-Pages/docs/).
 
 
 ## License
