@@ -1,8 +1,6 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Corp-i1's Pages
+description: Documentation for my projects as some other stuff.
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://Corp-i1.github.io/GitHub-Pages
+aux_links: # remove if you don't want this link to appear on your pages
+    Template Repository: https://Corp-i1.github.io/GitHub-Pages
