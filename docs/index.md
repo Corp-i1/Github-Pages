@@ -13,6 +13,6 @@ Welcome to the documentation section. Here you will find all the information you
 
 # Projects
 
-- [Win-Labs](/docs/Win-Labs/)
+- [Win-Labs](/Github-Pages/docs/Win-Labs/)
 
 
