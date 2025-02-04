@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_Order: 1
+has_toc: false
 ---
 
 # Corp-i1's Pages

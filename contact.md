@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+has_toc: false
 ---
 
 # Contact

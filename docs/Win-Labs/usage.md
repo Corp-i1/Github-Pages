@@ -2,6 +2,7 @@
 layout: default
 title: Usage - Win-Labs
 parent: Documentation - Win-Labs
+has_toc: false
 ---
 
 # Overview
