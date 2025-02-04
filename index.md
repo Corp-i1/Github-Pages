@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_Order: 1
 ---
 
 # Corp-i1's Pages

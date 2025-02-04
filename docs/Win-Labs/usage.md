@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Usage
+title: Usage - Win-Labs
+parent: Documentation - Win-Labs
 ---
 
 # Overview

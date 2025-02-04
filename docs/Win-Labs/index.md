@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Documentation
+title: Documentation - Win-Labs
+parent: Documentation
 ---
 
 # Documentation - Win-Labs
