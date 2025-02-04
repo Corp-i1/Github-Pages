@@ -15,7 +15,7 @@ This site is hosted using GitHub Pages and provides comprehensive documentation 
 - [Home](https://corp-i1.github.io/Github-Pages/)
 - [Documentation](https://corp-i1.github.io/Github-Pages/docs/)
 - [About](https://corp-i1.github.io/Github-Pages/about/)
-- [Contact](https://corp-i1.github.io/Github-Pages/contact/)
+- [Contact](https://corp-i1.github.io/Github-Pages/contact.html)
 
 ## Getting Started
 
