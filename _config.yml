@@ -1,12 +1,11 @@
 title: Corp-i1's Pages
 description: Documentation for my projects as some other stuff.
 theme: just-the-docs
-
+color_scheme: dark
 url: https://Corp-i1.github.io/Github-Pages/
-
+ga_tracking: G-N3SW72TDDP
+ga_tracking_anonymize_ip: true
 callouts:
     warning:
     title: Warning
     color: red
-ga_tracking: G-N3SW72TDDP
-ga_tracking_anonymize_ip: true
