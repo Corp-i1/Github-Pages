@@ -3,6 +3,7 @@ layout: default
 title: Documentation - Win-Labs
 parent: Documentation
 has_toc: false
+permalink: /docs/Win-Labs/
 ---
 
 # Documentation - Win-Labs
