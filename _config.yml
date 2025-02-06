@@ -6,3 +6,5 @@ url: https://Corp-i1.github.io/Github-Pages/
 ga_tracking: G-6E1Z07F6MZ
 ga_tracking_anonymize_ip: true
 favicon_ico: "/assets/images/Win-Labs_Icon.jpg"
+back_to_top: true
+back_to_top_text: "Back to top"
