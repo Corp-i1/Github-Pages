@@ -3,6 +3,7 @@ layout: default
 title: Usage - Win-Labs
 parent: Documentation - Win-Labs
 has_toc: false
+permalink: /docs/Win-Labs/Usage/
 ---
 
 # Overview
