@@ -4,6 +4,7 @@ title: Installation - Win-Labs
 parent: Documentation - Win-Labs
 has_toc: false
 permalink: /docs/Win-Labs/installation/
+last_modified_date: 2025-02-06
 ---
 
 # Installation
