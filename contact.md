@@ -15,5 +15,5 @@ You can reach us via email at [corpi1.business@gmail.com](mailto:corpi1.business
 ## Social Media
 
 
-- [GitHub](https://github.com/Corp-i1)
+- [GitHub](https://github.com/Corp-i1){: .btn }
 
