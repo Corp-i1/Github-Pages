@@ -3,7 +3,7 @@ layout: default
 title: Installation - Win-Labs
 parent: Documentation - Win-Labs
 has_toc: false
-permalink: /docs/Win-Labs/installation/
+permalink: /docs/Win-Labs/Installation/
 last_modified_date: 2025-02-06
 ---
 
