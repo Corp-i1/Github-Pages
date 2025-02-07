@@ -13,7 +13,7 @@ Welcome to the documentation for Win-Labs my Q-Labs alternative for windows.
 
 ## Getting Started
 
-- [Installation](/docs/Win-Labs//Intallation/)
-- [Usage](/docs/Win-Labs//Usage/)
+- [Installation](/github-pages/docs/Win-Labs/Intallation/)
+- [Usage](/github-pages/docs/Win-Labs/Usage/)
 
 
