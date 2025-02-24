@@ -9,4 +9,20 @@ last_modified_date: 2025-02-06
 
 # Installation
 
-Currently , the only way to install Win-Labs is to clone the repository and run it your self. I will relase a installer or something alike when I am happy with the project.
+V1.0.0.1
+
+Find release here: https://github.com/Corp-i1/Win-Labs/releases/tag/v1.0.0.1
+
+To Install:
+1. Download the EXE file.
+2. Create a folder where you want to install the program.
+3. Run the EXE file.
+4. Select "Yes" to start install. 
+5. Select the previously made folder and click "Ok".
+6. If updating click "Yes to all".
+7. Select "Ok" and your install is complete.
+8. To run the program open the folder you made and double click on the "Win-Labs.exe".
+
+If you follow these steps and the program does not run or you have any issues please upload the entire folder in a .zip or .rar file to a issue made on this repo.
+
+The EXE file is made using "iexpress.exe" which built into windows. The SED file used to make EXE is also provided.
